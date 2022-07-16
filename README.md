@@ -28,16 +28,9 @@
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
 </p>
 
+<img align="left" alt="Coding" width="300" src="https://c.tenor.com/6MX3RuIyWd0AAAAd/anime-laughhard.gif">
 
-<br>
-<br>
-
-
-
-
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
-
-**Github Contribution Statistics**-
+**<h2>Github Contribution Statistics**-</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
