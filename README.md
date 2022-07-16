@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### <h2>Programming-</h2>
+### <h2>Programming & Github Statistics-</h2>
 
 <p align="left"> 
    <a href="https://www.python.org" target="_blank">
@@ -29,8 +29,6 @@
 </p>
 
 <img align="left" alt="Coding" width="300" src="https://c.tenor.com/6MX3RuIyWd0AAAAd/anime-laughhard.gif">
-
-**<h2>Github Contribution Statistics**-</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
