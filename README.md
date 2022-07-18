@@ -33,7 +33,7 @@
 
 ### <h2>GitHub Statistics-</h2>
 
-<img align="left" alt="Coding" width="300" src="https://c.tenor.com/6MX3RuIyWd0AAAAd/anime-laughhard.gif">
+<img align="left" alt="Coding" width="260" src="https://c.tenor.com/6MX3RuIyWd0AAAAd/anime-laughhard.gif">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
