@@ -19,7 +19,7 @@
 <br>
 <br>
 
-### <h2>Programming & Github Statistics-</h2>
+### <h2>Programming-</h2>
 
 <p align="left"> 
    <a href="https://www.python.org" target="_blank">
@@ -27,6 +27,11 @@
   </a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
 </p>
+
+<br>
+<br>
+
+### <h2>GitHub Statistics-</h2>
 
 <img align="left" alt="Coding" width="300" src="https://c.tenor.com/6MX3RuIyWd0AAAAd/anime-laughhard.gif">
 
