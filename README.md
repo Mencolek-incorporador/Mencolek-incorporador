@@ -14,11 +14,9 @@
 :- I want to be aware everything the world has to offer.<br>
 :- And I'm a weeb for part-time 😉.</h7>
 
-
-<br>
 <br>
 
-### <h2>Programming-</h2>
+### ⮞ Programming-
 
 <p align="left"> 
    <a href="https://www.python.org" target="_blank">
@@ -27,8 +25,11 @@
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
 </p>
 
-<br>
-<br>
+### ⮞ Operating Systems-
+ 
+<p align="left">
+    <a href="#"><img src="https://img.shields.io/badge/Zorin-0000FF?style=metallic&logo=zorin&logoColor=black"></a>
+</p>
 
 ### <h2>GitHub Statistics-</h2>
 
