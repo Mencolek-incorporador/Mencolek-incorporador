@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, Greetings from Mencolek-incorporador!</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student;Ambitious+Programmer;Finding%20new%20things%20to%20learn&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student;Creative+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -10,10 +10,9 @@
 
 
 ## About me-
-<h7>:- *Curious* about the world I live in. <br>
-:- *Believe* that something special is yet to be discovered.<br>
-:- An amature *musician*.<br>
-:- I keep a keen interest in *programming*.</h7>
+<h7>:- Extentions to my present knowledge fascinate me. <br>
+:- I want to be aware everything the world has to offer.<br>
+:- And I'm a weeb for part-time 😉.</h7>
 
 
 <br>
