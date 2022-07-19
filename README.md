@@ -6,7 +6,7 @@
 <br>
 
 ## About me-
-<h7>:- Extentions to my present knowledge fascinate me. <br>
+<h7>:- Extensions to my present knowledge fascinate me. <br>
 :- I want to be aware everything the world has to offer.<br>
 :- And I'm a weeb for part-time 😉.</h7>
 
