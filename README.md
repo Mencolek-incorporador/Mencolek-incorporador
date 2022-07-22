@@ -25,6 +25,7 @@
  
 <p align="left">
     <a href="#"><img src="https://img.shields.io/badge/Zorin-0000FF?style=metallic&logo=zorin&logoColor=black"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Mint-0000GG?style=metallic&logo=linux-mint&logoColor=white"></a>
 </p>
 
 ### <h2>GitHub Statistics-</h2>
