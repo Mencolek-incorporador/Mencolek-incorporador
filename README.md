@@ -7,7 +7,7 @@
 
 ## About me-
 <h7>:- Extensions to my present knowledge fascinate me. <br>
-:- I want to be aware everything the world has to offer.<br>
+:- I want to be aware about everything the world has to offer.<br>
 :- And I'm a weeb for part-time 😉.</h7>
 
 <br>
